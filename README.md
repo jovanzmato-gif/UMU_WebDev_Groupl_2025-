@@ -1,2 +1,9 @@
-# UMU_WebDev_Groupl_2025-
- https://jovanzmato-gif.github.io/UMU_WebDev_Groupl_2025-/
+ UMU_WebDev_Groupl_2025-
+ GROUP MEMBERS
+ <span style="color:red">
+ MATOVU JOVAN:2025-D302-13364
+ KIYIMBA GODFREY:2025-D301-12595
+ KYOMUHENDO JUDITH:2025-B291-14056
+ 
+ </span>
+
